@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.env
+venv/
+env/
+.venv/
+backend/lost_found.db
+backend/uploads/
+
+# Node
+node_modules/
+dist/
+.vite/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
